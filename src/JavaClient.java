@@ -9,6 +9,8 @@ public class JavaClient {
 	public static void main(String[] args) {
 		  // TODO Auto-generated method stub
 
+		
+		//GitTest
 		  BufferedWriter bw;
 		  try {
 		   Socket sk = new Socket("127.0.0.1",5050);    //建立Socket物件，並設定ip(127.0.0.1是自己的主機)和埠號
