@@ -10,7 +10,8 @@ public class JavaClient {
 		  // TODO Auto-generated method stub
 
 		
-		//GitTest
+		//GitTest 
+		//github j860406g@gmail.com
 		  BufferedWriter bw;
 		  try {
 		   Socket sk = new Socket("127.0.0.1",5050);    //建立Socket物件，並設定ip(127.0.0.1是自己的主機)和埠號
